@@ -1,4 +1,9 @@
 <?php
+/*
+DataDepot.io php API
+GitHub repo:
+https://github.com/datadepot/phpApi
+*/
 class Datadepot
 {
     private $api_id = '';
